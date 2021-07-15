@@ -1,4 +1,4 @@
-### Hey! 👋
+### Hi there, I'm Remithium 👋
 
 - 🔭 I’m currently working on [Head First C#, 4e](https://github.com/head-first-csharp/fourth-edition), [Unity Junior Programmer](https://learn.unity.com/pathway/junior-programmer) and [CG Boost: Blender Launch Pad](https://academy.cgboost.com/p/blender-2-8-launch-pad)
 - 🌱 I’m currently learning Coding Fundamentals using C#, Basic Math , Blender, Unity
