@@ -1,7 +1,7 @@
 ### Hi there, I'm Remithium 👋
 
-- 🔭 I’m currently working on [Head First C#, 4e](https://github.com/head-first-csharp/fourth-edition).
-- 🌱 I’m currently learning C#, Basic Math, Blender and Unity.
+- 🔭 I’m currently working on too many projects.
+- 🌱 I’m currently learning C#, Unity, HTML & CSS.
 
 <!--
 **Remithium/Remithium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
