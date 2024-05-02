@@ -1,7 +1,7 @@
 ### Hi there, I'm Remithium 👋
 
 - 🔭 I’m currently working on too many projects.
-- 🌱 I’m currently learning C#, Unity, HTML & CSS.
+- 🌱 I’m currently learning Rust and SQL.
 
 <!--
 **Remithium/Remithium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
